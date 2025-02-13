@@ -1,0 +1,2 @@
+tf apply --auto-approve
+tf destroy --auto-approve
